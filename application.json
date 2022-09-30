@@ -7,6 +7,14 @@
     {
       "id": "Page2",
       "isDefault": false
+    },
+    {
+      "id": "Page3",
+      "isDefault": false
+    },
+    {
+      "id": "Page4",
+      "isDefault": false
     }
   ],
   "viewMode": false,
